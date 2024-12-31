@@ -1,4 +1,4 @@
-# Neural Network various cases implemented using python
+# Various cases of Neural Network implemented using python
 
 ## Description:
 
