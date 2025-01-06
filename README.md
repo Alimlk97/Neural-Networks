@@ -2,7 +2,7 @@
 
 ## Description:
 
-Welcome to THis repository! here, you'll come Across Various casEs oF neurAl networks implemented in Python, desIgned To Help newcomers gain an easier introduction to the subject.
+Welcome to This repository! here, you'll come across various cases oF neural networks implemented in Python, designed to help newcomers gain an easier introduction to the subject.
 
 ## Current Status:
 
