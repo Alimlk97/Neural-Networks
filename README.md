@@ -2,7 +2,7 @@
 
 ## Description:
 
-Welcome to This repository! here, you'll come across various cases of neural networks implemented in Python, designed to help newcomers gain an easier introduction to the subject.
+Welcome to This repository! here, you'll come across various cases of neural networks implemented in Python, demonstrating various neural network architectures and applications.
 
 ## Current Status:
 
@@ -10,7 +10,11 @@ Welcome to This repository! here, you'll come across various cases of neural net
 
 2- Various Neural Network Activation functions and their plots are shown in the 0_Activation_Functions.ipynb file.
 
-3- ...
+3- A simple case of Multi-Layer Perceptron (MPL) using Sigmoid and Pureline Activation functions has been implemented.
+
+4- ... (possibly classificiation)
+
+once you become acquainted with the Feedforward and Backpropagation equations, you can simply write code to train and test a neural network from scratch.
 
 ## What's Next:
 
