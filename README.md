@@ -8,7 +8,9 @@ Welcome to This repository! here, you'll come across various cases of neural net
 
 1- First code uploaded: implementation of a two layered Multi-Layer Perceptron (MLP) Neural Network using trigonometric functions as activation functions of the first layer.
 
-2- ...
+2- Activation functions and their plots are shown in the 0_Activation_Functions.ipynb file.
+
+3- ...
 
 ## What's Next:
 
