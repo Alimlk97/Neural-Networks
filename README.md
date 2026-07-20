@@ -10,7 +10,7 @@ Welcome to This repository! here, you'll come across various cases of neural net
 
 2- Various Neural Network Activation functions and their plots are shown in the 0_Activation_Functions.ipynb file.
 
-3- A simple case of Multi-Layer Perceptron (MPL) using Sigmoid and Pureline Activation functions has been implemented.
+3- A simple case of Multi-Layer Perceptron (MLP) using Sigmoid and Pureline Activation functions has been implemented.
 
 4- ... (possibly classificiation)
 
